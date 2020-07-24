@@ -1,2 +1,4 @@
 Task 2 - 3
-run npm run start to see the solution
+clone
+npm init
+npm run start to see the solution
